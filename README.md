@@ -66,7 +66,7 @@ User profiles, posts, likes, comments, JWT authentication.
 
 ### 📌 Weather App (React + Open Weather API) 
 Weather forecast for next 5 days based on location.  
-**Repo:** https://github.com/UlianaAsadulina/SBA320_React_WeatherApp
+**Repo:** [https://github.com/UlianaAsadulina/SBA320_React_WeatherApp](https://github.com/UlianaAsadulina/React_WeatherAPI)  
 
 ---
 
